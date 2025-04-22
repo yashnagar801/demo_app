@@ -1,0 +1,24 @@
+.container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+  }
+  
+  .title {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #0f172a;
+  }
+  
+  .content {
+    line-height: 1.8;
+    color: #334155;
+    white-space: pre-line;
+  }
+  
+  .loading {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 3rem;
+  }
+  
